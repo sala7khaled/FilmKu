@@ -1,4 +1,4 @@
-# FlimKu
+# FilmKu
 FilmKu is a movie app that shows the latest movies in the cinema and filters the movies by date and rate.
 
 ## Author
